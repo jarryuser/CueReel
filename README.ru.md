@@ -6,6 +6,8 @@
 
 **Изучайте языки по собственным видео, аудио и субтитрам**
 
+**[Попробовать CueReel онлайн](https://jarryuser.github.io/CueReel/)**
+
 [![License MIT](https://img.shields.io/badge/License-MIT-2f81f7?style=flat-square)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES%20modules-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 [![Subtitles](https://img.shields.io/badge/Subtitles-SRT%20%2F%20WebVTT-1f883d?style=flat-square)](https://www.w3.org/TR/webvtt1/)
